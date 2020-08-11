@@ -18,7 +18,7 @@ body{
 
 .btn-lg{
     color: white;
-    background-color: #455a64;
+    background-color: #313d53;
     margin-right: 10px; 
 }
 .brand-logo{
@@ -59,7 +59,7 @@ body{
 }
 
 .header{
-    background: #14c9c0;
+    background: #313d53;
 }
 
 .textbox{
@@ -71,13 +71,13 @@ body{
 }
 
 .questionbox{
-    background-color: #455a64;
+    background-color: #313d53;
     height: 100px;
 }
 
 .something{
     margin-top: 50px;
-    border: 1px solid #455a64;
+    border: 1px solid #313d53;
     border-radius: 10px;
     background: url(https://cdn.pixabay.com/photo/2020/06/29/07/09/quiz-5351649_960_720.png)
 }
